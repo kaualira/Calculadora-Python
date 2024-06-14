@@ -49,7 +49,7 @@ while True:
         resultado = num1 * num2 
         
         print('\n\tResultado: {}'.format(resultado))
-    # José Luiz
+    # José Luiz - Divisão
     elif op == 4:
         print('\n\t\t\t -- Divisão --\n')
         
