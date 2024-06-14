@@ -39,6 +39,7 @@ while True:
         
         #Saída
         print('\n\tResultado: {}'.format(resultado))
+   
     # Pedro Grechi
     elif op == 3:
         print('\n\t\t\t -- Multiplicação --\n')
